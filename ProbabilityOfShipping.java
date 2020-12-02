@@ -10,7 +10,7 @@ import java.util.Scanner;
  *      SOON -4TH  prioritized member who has subscribed with more than rs. 600.
  *      LATER -5th  prioritized member who has subscribed with more than rs. 600.
  *      NEVER -last member who has subscribed with more than rs. 600.
- * @author Saugandhika
+ * @author Dev
  * @version 15.0
  * @since  14-11-2020
  */
@@ -26,7 +26,7 @@ interface costants {
 /**
  * class of costumer quarry 
  * costumer asking information duration of delivery of products
- * @author Saugandhika
+ * @author Dev
  * @param membership -constant to store the checking amount to give priority
  */
 class CostumerQuarry implements costants
@@ -57,7 +57,7 @@ class CostumerQuarry implements costants
 
  /**
  * class of probability of shipping
- * @author Saugandhika
+ * @author Dev
  * @version 15.0
  * @since 14-11-2020
  * @return args-arguments are not used
